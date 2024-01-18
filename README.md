@@ -1,5 +1,5 @@
 # Los-Angeles-Arrest-Data-Dashboard
-This dashboard was created in order to answer questions for the stakeholder
+This dashboard was created in order to answer questions for the stakeholder regarding arrests made in Los Angeles County from 2010-2019
 
 # Questions: 
 1. How was each California county affected by COVID-19? 
